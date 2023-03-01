@@ -1,5 +1,5 @@
 numpy
 tensorflow
 streamlit
-keras
+keras==2.6.1
 pillow
